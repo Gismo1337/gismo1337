@@ -1,75 +1,77 @@
-
+<!-- Holopin Badges -->
 [![@gismo1337's Holopin board](https://holopin.io/api/user/board?user=gismo1337)](https://holopin.io/@gismo1337)
-# Hi, mein Name ist Sebastian
-Schau dich in Ruhe um, meld dich wenn ich Dir helfen darf.
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianrichter1337/)
+# 👋 Hi, ich bin Sebastian
 
-## 📈 Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gismo1337&" alt="gismo1337" /></p>
- <a>
+Full-Stack-Entwickler mit Fokus auf moderne Web- und App-Technologien. Willkommen auf meinem Profil.
+
+---
+
+## 🔗 Social & Kontakt
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianrichter1337/)
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gismo1337" alt="GitHub Streak Stats" />
+</p>
+
+---
 
 ## 🛠 Techstack & Skills
-Diese und einige mehr sind mindestens im wichtigsten Umfang bekannt und aktiv im Einsatz.
 
 ### Betriebssysteme
-- Windows 3.1, 95, 98, 2000, Vista, 7, 8, 8.1, 10 und 11 
-- Ubuntu 20.04 und 21.10 
-- Kali Linux 
-- iOS
+- Windows (3.1 → 11)  
+- Ubuntu (20.04, 21.10)  
+- Kali Linux  
+- iOS  
 
-### Office
-- Microsoft Office
-- SharePoint
-- Google Businesstools 
-- Adobe Photoshop 
+### Office & Collaboration
+- Microsoft Office  
+- SharePoint  
+- Google Workspace  
+- Adobe Photoshop  
+- Teams  
+- Slack  
+- Discord  
 
-### Kommunikation
-- Teams 
-- Slack 
-- Discord 
+### Organisation & Projektmanagement
+- Notion  
+- Jira  
+- Monday  
 
-### Organisation
-- Notion
-- Jira 
-- Monday
-
-### Codingsoftware
-- VS Code 
-- Webstorm 
-- PHPStorm
+### Entwicklungsumgebungen
+- VS Code  
+- WebStorm  
+- PhpStorm  
 
 ### Skriptsprachen
-- HTML 
-- CSS 
-- JavaScript 
+- HTML  
+- CSS  
+- JavaScript  
 - PHP  
 
-### Bibliotheken 
-- VueJs 
-- ReactJs 
-- React Native 
+### Bibliotheken & Frameworks
+- Vue.js  
+- React.js  
+- React Native  
+- Expo  
+- Laravel  
 
-### Frameworks
-- Expo 
-- Laravel
+### Tools & Helper
+- Node.js  
+- Git  
+- Nova  
+- Livewire  
+- Vapor  
+- Breeze  
+- Sail  
 
-### Helfer
-- NodeJs
-- Git
-- Nova
-- Livewire
-- Vapor
-- Breeze
-- Sail
+### Datenbanken & Cloud
+- MySQL  
+- MongoDB  
+- Firebase  
+- AWS  
 
-### Datenbanken
-- MySQL
-- MongoDB
-- Firebase
-- AWS
-
-
-
-
+---
